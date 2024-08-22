@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1686086672 source:c:\topicos_de_programacion\ejercicio 31-5\ejercicio_archivos\cargar_bin.c
+	"header.h"
+
+1686086673 c:\topicos_de_programacion\ejercicio 31-5\ejercicio_archivos\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1685770391 source:c:\topicos_de_programacion\ejercicio 31-5\ejercicio_archivos\largo_fijo_a_bin.c
+	"header.h"
+
+1685770352 source:c:\topicos_de_programacion\ejercicio 31-5\ejercicio_archivos\largo_variable_a_bin.c
+	"header.h"
+
+1686086674 source:c:\topicos_de_programacion\ejercicio 31-5\ejercicio_archivos\main.c
+	"header.h"
+

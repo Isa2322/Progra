@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1713358064 source:c:\users\laboratorios\desktop\examen\cola_dinamica\funciones_cola_dinamica.c
+	"header_cola_dinamica.h"
+
+1713358077 c:\users\laboratorios\desktop\examen\cola_dinamica\header_cola_dinamica.h
+	<stdio.h>
+	<stdlib.h>
+
+1713358118 source:c:\users\laboratorios\desktop\examen\cola_dinamica\main.c
+	"header_cola_dinamica.h"
+

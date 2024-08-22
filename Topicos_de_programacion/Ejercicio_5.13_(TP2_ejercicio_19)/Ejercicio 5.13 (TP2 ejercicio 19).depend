@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1687218815 source:c:\topicos_de_programacion\ejercicio 5.13 (tp2 ejercicio 19)\crear_binario_90.c
+	"header.h"
+
+1687222902 c:\topicos_de_programacion\ejercicio 5.13 (tp2 ejercicio 19)\header.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1687217209 source:c:\topicos_de_programacion\ejercicio 5.13 (tp2 ejercicio 19)\main.c
+	"header.h"
+
+1687216536 source:c:\topicos_de_programacion\ejercicio 5.13 (tp2 ejercicio 19)\mostrar_bin.c
+	"header.h"
+
+1687217067 source:c:\topicos_de_programacion\ejercicio 5.13 (tp2 ejercicio 19)\dividir_binario.c
+	"header.h"
+
+1687216834 source:c:\topicos_de_programacion\ejercicio 5.13 (tp2 ejercicio 19)\mostrar_txt.c
+	"header.h"
+
+1687221157 source:c:\topicos_de_programacion\ejercicio 5.13 (tp2 ejercicio 19)\bin_a_txt.c
+	"header.h"
+
+1687221157 source:c:\topicos_de_programacion\ejercicio_5.13_(tp2_ejercicio_19)\bin_a_txt.c
+	"header.h"
+
+1687222902 c:\topicos_de_programacion\ejercicio_5.13_(tp2_ejercicio_19)\header.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1687222879 source:c:\topicos_de_programacion\ejercicio_5.13_(tp2_ejercicio_19)\cifrado.c
+	"header.h"
+
+1687218815 source:c:\topicos_de_programacion\ejercicio_5.13_(tp2_ejercicio_19)\crear_binario_90.c
+	"header.h"
+
+1687223002 source:c:\topicos_de_programacion\ejercicio_5.13_(tp2_ejercicio_19)\dividir_binario.c
+	"header.h"
+
+1687222913 source:c:\topicos_de_programacion\ejercicio_5.13_(tp2_ejercicio_19)\main.c
+	"header.h"
+
+1687216536 source:c:\topicos_de_programacion\ejercicio_5.13_(tp2_ejercicio_19)\mostrar_bin.c
+	"header.h"
+
+1687216834 source:c:\topicos_de_programacion\ejercicio_5.13_(tp2_ejercicio_19)\mostrar_txt.c
+	"header.h"
+

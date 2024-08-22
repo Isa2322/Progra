@@ -1,0 +1,6 @@
+#ifndef NORMALIZAR_STRING_H_INCLUDED
+#define NORMALIZAR_STRING_H_INCLUDED
+
+char* normalizar_string(char*);
+
+#endif // NORMALIZAR_STRING_H_INCLUDED

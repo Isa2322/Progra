@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1686752974 source:c:\users\laboratorios\desktop\tpi\encriptar_cesar.c
+	"header.h"
+
+1686750114 c:\users\laboratorios\desktop\tpi\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1686750977 source:c:\users\laboratorios\desktop\tpi\main.c
+	"header.h"
+
+1688339723 source:c:\topicos_de_programacion\tpi\encriptar_cesar.c
+	"header.h"
+
+1688515746 c:\topicos_de_programacion\tpi\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1688516707 source:c:\topicos_de_programacion\tpi\main.c
+	"header.h"
+
+1687034539 source:c:\topicos_de_programacion\tpi\cesar2.c
+	"header.h"
+
+1688339333 source:c:\topicos_de_programacion\tpi\encriptar_cesar_v3.c
+	"header.h"
+
+1688334201 source:c:\topicos_de_programacion\tpi\buscar_letra.c
+	"header.h"
+
+1688335450 source:c:\topicos_de_programacion\tpi\buscar_prox_pal_punt.c
+	"header.h"
+
+1688335232 source:c:\topicos_de_programacion\tpi\invertir_frase.c
+	"header.h"
+
+1688334744 source:c:\topicos_de_programacion\tpi\invertir_palabras.c
+	"header.h"
+
+1688339088 source:c:\topicos_de_programacion\tpi\cesar.c
+	"header.h"
+
+1688341219 source:c:\topicos_de_programacion\tpi\desencriptar_cesar.c
+	"header.h"
+
+1688521069 source:c:\topicos_de_programacion\tpi\desencriptar_afin.c
+	"header.h"
+
+1688502771 source:c:\topicos_de_programacion\tpi\son_coprimos.c
+	"header.h"
+
+1688511999 source:c:\topicos_de_programacion\tpi\inverso_modular.c
+	"header.h"
+

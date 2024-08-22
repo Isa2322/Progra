@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1685054334 source:c:\topicos_de_programacion\archivos\cambiar_fecha.c
+	"header.h"
+
+1686518726 c:\topicos_de_programacion\archivos\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1685747037 source:c:\topicos_de_programacion\archivos\modificar_archivo.c
+	"header.h"
+
+1685055613 source:c:\topicos_de_programacion\archivos\mostrar_archivo_generico.c
+	"header.h"
+
+1685057484 source:c:\topicos_de_programacion\archivos\leer_fecha.c
+	"header.h"
+
+1686522891 source:c:\topicos_de_programacion\archivos\main.c
+	"header.h"
+
+1685768329 source:c:\topicos_de_programacion\archivos\lote_de_pruebas.c
+	"header.h"
+
+1685767101 source:c:\topicos_de_programacion\archivos\largo_fijo_a_bin.c
+	"header.h"
+
+1685770152 source:c:\topicos_de_programacion\archivos\largo_variable_a_bin.c
+	"header.h"
+
+1686509399 source:c:\topicos_de_programacion\archivos\clase_31-5.c
+	"header.h"
+
+1686518009 source:c:\topicos_de_programacion\archivos\merge.c
+	"header.h"
+
+1686519348 source:c:\topicos_de_programacion\archivos\actualizar_alumos.c
+	"header.h"
+
+1686520299 source:c:\topicos_de_programacion\archivos\comparar_alumnos.c
+	"header.h"
+

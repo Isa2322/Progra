@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1688169122 source:c:\topicos_de_programacion\parcial_v2\main.c
+	"header.h"
+
+1688168938 c:\topicos_de_programacion\parcial_v2\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1688167275 source:c:\topicos_de_programacion\parcial_v2\carga_vec.c
+	"header.h"
+
+1688164918 source:c:\topicos_de_programacion\parcial_v2\carga_double.c
+	"header.h"
+
+1688164450 source:c:\topicos_de_programacion\parcial_v2\carga_int.c
+	"header.h"
+
+1688164994 source:c:\topicos_de_programacion\parcial_v2\carga_float.c
+	"header.h"
+
+1688168522 source:c:\topicos_de_programacion\parcial_v2\operar_double.c
+	"header.h"
+
+1688168373 source:c:\topicos_de_programacion\parcial_v2\operar_float.c
+	"header.h"
+
+1688168064 source:c:\topicos_de_programacion\parcial_v2\operar_int.c
+	"header.h"
+
+1688169031 source:c:\topicos_de_programacion\parcial_v2\suma_y_resta_vec.c
+	"header.h"
+

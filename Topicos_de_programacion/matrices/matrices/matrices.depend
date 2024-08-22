@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1682715008 source:c:\topicos_de_programacion\matrices\matrices\diagonal_principal.c
+	"header.h"
+
+1683337369 c:\topicos_de_programacion\matrices\matrices\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1683401990 source:c:\topicos_de_programacion\matrices\matrices\main.c
+	"header.h"
+
+1682715006 source:c:\topicos_de_programacion\matrices\matrices\diagonal_secundaria.c
+	"header.h"
+
+1682715279 source:c:\topicos_de_programacion\matrices\matrices\triangulo_inferior_dp.c
+	"header.h"
+
+1682715877 source:c:\topicos_de_programacion\matrices\matrices\triangulo_inferior_sin_dp.c
+	"header.h"
+
+1682715840 source:c:\topicos_de_programacion\matrices\matrices\triangulo_inferior_con_dp.c
+	"header.h"
+
+1682720973 source:c:\topicos_de_programacion\matrices\matrices\triangulo_inferior_sin_ds.c
+	"header.h"
+
+1682722943 source:c:\topicos_de_programacion\matrices\matrices\triangulo_inferior_con_ds.c
+	"header.h"
+
+1683079667 source:c:\topicos_de_programacion\matrices\matrices\triangulo_superior_sin_dp.c
+	"header.h"
+
+1683079708 source:c:\topicos_de_programacion\matrices\matrices\triangulo_superior_con_dp.c
+	"header.h"
+
+1682727556 source:c:\topicos_de_programacion\matrices\matrices\triangulo_superior_sin_ds.c
+	"header.h"
+
+1683168477 source:c:\topicos_de_programacion\matrices\matrices\triangulo_1_sin_diag.c
+	"header.h"
+
+1682727513 source:c:\topicos_de_programacion\matrices\matrices\triangulo_superior_con_ds.c
+	"header.h"
+
+1683168471 source:c:\topicos_de_programacion\matrices\matrices\triangulo_1_con_diag.c
+	"header.h"
+
+1683154568 source:c:\topicos_de_programacion\matrices\matrices\triangulo_2_sin_diag.c
+	"header.h"
+
+1683155139 source:c:\topicos_de_programacion\matrices\matrices\triangulo_2_con_diag.c
+	"header.h"
+
+1683309690 source:c:\topicos_de_programacion\matrices\matrices\triangulo_3_sin_diag.c
+	"header.h"
+
+1682813123 source:c:\topicos_de_programacion\matrices\matrices\triangulo_3_con_diag.c
+	"header.h"
+
+1682969572 source:c:\topicos_de_programacion\matrices\matrices\triangulo_4_sin_diag.c
+	"header.h"
+
+1682969877 source:c:\topicos_de_programacion\matrices\matrices\recorrer_filas_columnas.c
+	"header.h"
+
+1682981025 source:c:\topicos_de_programacion\matrices\matrices\recorrer_espiral.c
+	"header.h"
+
+1682982794 source:c:\topicos_de_programacion\matrices\matrices\recorrer_diagonal.c
+	"header.h"
+
+1682987645 source:c:\topicos_de_programacion\matrices\matrices\may_submatriz.c
+	"header.h"
+
+1682984813 source:c:\topicos_de_programacion\matrices\matrices\submatrices.c
+	"header.h"
+
+1682989300 source:c:\topicos_de_programacion\matrices\matrices\may_submatriz_cuadrada.c
+	"header.h"
+
+1682987060 source:c:\topicos_de_programacion\matrices\matrices\min_sumbatriz.c
+	"header.h"
+
+1683312102 source:c:\topicos_de_programacion\matrices\matrices\matriz_concentrica.c
+	"header.h"
+
+1682989735 source:c:\topicos_de_programacion\matrices\matrices\min_submatriz_cuadrada.c
+	"header.h"
+
+1683080705 source:c:\topicos_de_programacion\matrices\matrices\es_simetrica.c
+	"header.h"
+
+1683080514 source:c:\topicos_de_programacion\matrices\matrices\trasponer.c
+	"header.h"
+
+1683313367 source:c:\topicos_de_programacion\matrices\matrices\mostrar_vecinos.c
+	"header.h"
+
+1683330012 source:c:\topicos_de_programacion\matrices\matrices\promedio_vecinos.c
+	"header.h"
+
+1683335071 source:c:\topicos_de_programacion\matrices\matrices\es_identidad.c
+	"header.h"
+
+1683335045 source:c:\topicos_de_programacion\matrices\matrices\es_escalar.c
+	"header.h"
+
+1683401918 source:c:\topicos_de_programacion\matrices\matrices\producto_matricial.c
+	"header.h"
+

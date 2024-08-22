@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1718765708 source:c:\programacion\algoritmos_y_estructuras_de_datos\recursividad_arbol\main.c
+	"header_arbol.h"
+
+1718762405 c:\programacion\algoritmos_y_estructuras_de_datos\recursividad_arbol\header_arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718765701 source:c:\programacion\algoritmos_y_estructuras_de_datos\recursividad_arbol\funciones_arbol.c
+	"header_arbol.h"
+

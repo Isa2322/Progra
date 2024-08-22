@@ -1,0 +1,11 @@
+ 
+public class Primera_clase {
+
+	public static void main(String[] args) 
+	{
+		Complejo c1 = new Complejo(5,2);
+		
+		c1.mostrar();
+	}
+
+}

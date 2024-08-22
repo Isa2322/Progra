@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1713076526 source:c:\algoritmos_y_estructursa_de_datos\cola\funciones_cola.c
+	"header_cola.h"
+
+1713058806 c:\algoritmos_y_estructursa_de_datos\cola\header_cola.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1712754793 source:c:\algoritmos_y_estructursa_de_datos\cola\main.c
+	"header_cola.h"
+
+1713076526 source:c:\programacion\algoritmos_y_estructuras_de_datos\cola\funciones_cola.c
+	"header_cola.h"
+
+1713921458 c:\programacion\algoritmos_y_estructuras_de_datos\cola\header_cola.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1713915005 source:c:\programacion\algoritmos_y_estructuras_de_datos\cola\lote_de_pruebas.c
+	"header_cola.h"
+
+1713999259 source:c:\programacion\algoritmos_y_estructuras_de_datos\cola\main.c
+	"header_cola.h"
+
+1713997819 source:c:\programacion\algoritmos_y_estructuras_de_datos\cola\banco.c
+	"header_cola.h"
+

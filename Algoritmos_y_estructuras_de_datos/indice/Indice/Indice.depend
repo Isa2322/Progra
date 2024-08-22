@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1719969293 source:c:\programacion\algoritmos_y_estructuras_de_datos\indice\indice\funciones_indice.c
+	"header_indice.h"
+
+1719969098 c:\programacion\algoritmos_y_estructuras_de_datos\indice\indice\header_indice.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1719958793 source:c:\programacion\algoritmos_y_estructuras_de_datos\indice\indice\lote.c
+	"header_indice.h"
+
+1719969521 source:c:\programacion\algoritmos_y_estructuras_de_datos\indice\indice\main.c
+	"header_indice.h"
+

@@ -1,0 +1,87 @@
+Pregunta: Cual es el apodo del Leicester City?
+Respuesta correcta: D
+
+Participante: Ingrid
+	Respuesta: D
+	Puntos: 3
+	Tiempo: 2
+
+Participante: Isa
+	Respuesta: D
+	Puntos: 1
+	Tiempo: 5
+
+Participante: Liz
+	Respuesta: A
+	Puntos: -2
+	Tiempo: 1
+
+
+Pregunta: Con que numero debuto Messi en el Barcelona?
+Respuesta correcta: B
+
+Participante: Ingrid
+	Respuesta: B
+	Puntos: 3
+	Tiempo: 2
+
+Participante: Isa
+	Respuesta: B
+	Puntos: 1
+	Tiempo: 4
+
+Participante: Liz
+	Respuesta: D
+	Puntos: -2
+	Tiempo: 3
+
+
+Pregunta: Cuando se celebro el primer mundial de futbol?
+Respuesta correcta: B
+
+Participante: Ingrid
+	Respuesta: B
+	Puntos: 3
+	Tiempo: 2
+
+Participante: Isa
+	Respuesta: B
+	Puntos: 1
+	Tiempo: 4
+
+Participante: Liz
+	Respuesta: B
+	Puntos: 1
+	Tiempo: 4
+
+
+Pregunta: Que equipo de la Premier League tiene mas ligas ganadas?
+Respuesta correcta: A
+
+Participante: Ingrid
+	Respuesta: A
+	Puntos: 2
+	Tiempo: 1
+
+Participante: Isa
+	Respuesta: A
+	Puntos: 2
+	Tiempo: 1
+
+Participante: Liz
+	Respuesta: B
+	Puntos: -2
+	Tiempo: 5
+
+
+
+
+
+Puntaje Total
+Ingrid: 11 Puntos
+Isa: 5 Puntos
+Liz: -5 Puntos
+
+
+El/la ganador/a es: Ingrid con 11 puntos
+

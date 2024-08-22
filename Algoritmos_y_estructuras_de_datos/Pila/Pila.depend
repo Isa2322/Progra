@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1712870504 source:c:\algoritmos_y_estructursa_de_datos\pila\funciones.c
+	"header.h"
+
+1712873175 c:\algoritmos_y_estructursa_de_datos\pila\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1712876588 source:c:\algoritmos_y_estructursa_de_datos\pila\main.c
+	"header.h"
+
+1712876140 source:c:\algoritmos_y_estructursa_de_datos\pila\lote_de_pruebas.c
+	"header.h"
+

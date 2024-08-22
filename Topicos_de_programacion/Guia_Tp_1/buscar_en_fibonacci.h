@@ -1,0 +1,6 @@
+#ifndef BUSCAR_EN_FIBONACCI_H_INCLUDED
+#define BUSCAR_EN_FIBONACCI_H_INCLUDED
+
+void buscar_en_fibonacci(int);
+
+#endif // BUSCAR_EN_FIBONACCI_H_INCLUDED

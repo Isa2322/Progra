@@ -1,0 +1,18 @@
+ 
+public class Primera_clase {
+
+	public static void main(String[] args) 
+	{
+		Complejo c1 = new Complejo(5,2);
+		Complejo c2 = new Complejo(3,9);
+		Complejo c3 = new Complejo(0,0);
+		double nn;
+		
+		nn = c1.modulo(c1);
+		
+		c3.mostrar();
+		
+		System.out.println(nn);
+	}
+
+}

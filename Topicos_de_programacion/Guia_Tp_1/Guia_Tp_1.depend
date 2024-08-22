@@ -1,0 +1,152 @@
+# depslib dependency file v1.0
+1682215104 source:c:\topicos_de_programacion\guia_tp_1\main.c
+	"header.h"
+
+1680292026 source:c:\topicos_de_programacion\guia_tp_1\factorial.c
+
+1680142550 c:\topicos_de_programacion\guia_tp_1\factorial.h
+
+1680301882 source:c:\topicos_de_programacion\guia_tp_1\numerocombinatorio.c
+	"factorial.h"
+	<stdio.h>
+
+1680294261 source:c:\topicos_de_programacion\guia_tp_1\ingresar_mayor_int.c
+	<stdio.h>
+
+1680294260 c:\topicos_de_programacion\guia_tp_1\ingresar_mayor_int.h
+
+1680292419 c:\topicos_de_programacion\guia_tp_1\numerocombinatorio.h
+
+1680308418 c:\topicos_de_programacion\guia_tp_1\potencia.h
+
+1680310770 source:c:\topicos_de_programacion\guia_tp_1\potencia.c
+
+1680303898 source:c:\topicos_de_programacion\guia_tp_1\ejercicio3.c
+	"potencia.h"
+	<stdio.h>
+
+1680302512 c:\topicos_de_programacion\guia_tp_1\ejercicio3.h
+
+1680305378 source:c:\topicos_de_programacion\guia_tp_1\buscar_en_fibonacci.c
+	<stdio.h>
+
+1680306038 c:\topicos_de_programacion\guia_tp_1\seno.h
+
+1681160256 source:c:\topicos_de_programacion\guia_tp_1\seno.c
+	"factorial.h"
+
+1680374808 source:c:\topicos_de_programacion\guia_tp_1\ejercicio_8.c
+
+1681151514 source:c:\topicos_de_programacion\guia_tp_1\ejercicio_3.c
+	"potencia.h"
+	<stdio.h>
+
+1680373732 source:c:\topicos_de_programacion\guia_tp_1\ejercicio_7.c
+	<stdio.h>
+
+1680374359 c:\topicos_de_programacion\guia_tp_1\ejercicio_8.h
+
+1680376352 source:c:\topicos_de_programacion\guia_tp_1\ejercicio_10.c
+
+1680376310 c:\topicos_de_programacion\guia_tp_1\ejercicio_10.h
+
+1680377005 source:c:\topicos_de_programacion\guia_tp_1\ejercicio_11.c
+
+1680376588 c:\topicos_de_programacion\guia_tp_1\ejercicio_11.h
+
+1680377239 source:c:\topicos_de_programacion\guia_tp_1\ejercicio_12.c
+
+1680378424 source:c:\topicos_de_programacion\guia_tp_1\es_primo.c
+	<stdio.h>
+
+1680377165 c:\topicos_de_programacion\guia_tp_1\ejercicio_12.h
+
+1680650051 source:c:\topicos_de_programacion\guia_tp_1\division.c
+	<stdio.h>
+	<stdlib.h>
+
+1680650800 c:\topicos_de_programacion\guia_tp_1\division.h
+
+1680302512 c:\topicos_de_programacion\guia_tp_1\ejercicio_3.h
+
+1681152586 c:\topicos_de_programacion\guia_tp_1\raiz_de_entero.h
+
+1681153608 source:c:\topicos_de_programacion\guia_tp_1\raiz_de_entero.c
+
+1681262799 source:c:\topicos_de_programacion\guia_tp_1\insertar_int_en_vec.c
+	<stdio.h>
+	<stdlib.h>
+
+1681259456 c:\topicos_de_programacion\guia_tp_1\insertar_int_en_vec.h
+
+1681268213 source:c:\topicos_de_programacion\guia_tp_1\insertar_int_en_vec_ordenado.c
+	<stdio.h>
+	<stdlib.h>
+
+1681263113 c:\topicos_de_programacion\guia_tp_1\insertar_int_en_vec_ordenado.h
+
+1681267398 source:c:\topicos_de_programacion\guia_tp_1\eliminar_int_en_array_pos.c
+	<stdio.h>
+	<stdlib.h>
+
+1681264889 c:\topicos_de_programacion\guia_tp_1\eliminar_int_en_array_pos.h
+
+1681271121 source:c:\topicos_de_programacion\guia_tp_1\eliminar_int_en_array_primer_elem.c
+	<stdio.h>
+	<stdlib.h>
+
+1681268158 c:\topicos_de_programacion\guia_tp_1\eliminar_int_en_array_primer_elem.h
+
+1681273764 source:c:\topicos_de_programacion\guia_tp_1\eliminar_int_en_array_todos_elem.c
+	<stdio.h>
+	<stdlib.h>
+
+1681271990 c:\topicos_de_programacion\guia_tp_1\eliminar_int_en_array_todos_elem.h
+
+1682206816 source:c:\topicos_de_programacion\guia_tp_1\comparar_string.c
+
+1682206759 source:c:\topicos_de_programacion\guia_tp_1\concatenar_string.c
+
+1682206872 source:c:\topicos_de_programacion\guia_tp_1\contar_ocurrencias.c
+
+1682207108 source:c:\topicos_de_programacion\guia_tp_1\contar_ocurrencias_solapamiento.c
+
+1682206703 source:c:\topicos_de_programacion\guia_tp_1\copiar_string.c
+
+1682206597 source:c:\topicos_de_programacion\guia_tp_1\longitud_string.c
+
+1682206990 source:c:\topicos_de_programacion\guia_tp_1\normalizar_string.c
+
+1682207297 source:c:\topicos_de_programacion\guia_tp_1\reemplazar.c
+
+1682206274 source:c:\topicos_de_programacion\guia_tp_1\sim_funciones_str.c
+
+1682208030 source:c:\topicos_de_programacion\guia_tp_1\tipo_oracion.c
+	<string.h>
+	<ctype.h>
+
+1682208002 source:c:\topicos_de_programacion\guia_tp_1\tipo_titulo.c
+	<string.h>
+	<ctype.h>
+
+1682209276 source:c:\topicos_de_programacion\guia_tp_1\buscar_prox_pal_cl.c
+	"header.h"
+
+1682215087 c:\topicos_de_programacion\guia_tp_1\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	"normalizar_string.h"
+
+1682214125 source:c:\topicos_de_programacion\guia_tp_1\buscar_prox_pal_punt.c
+	"header.h"
+
+1682213711 source:c:\topicos_de_programacion\guia_tp_1\invertir_palabras.c
+	"header.h"
+
+1682214883 source:c:\topicos_de_programacion\guia_tp_1\invertir_frase.c
+	"header.h"
+
+1682206921 c:\topicos_de_programacion\guia_tp_1\normalizar_string.h
+

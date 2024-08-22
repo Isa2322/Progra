@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="matrices" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/matrices" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/matrices" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="diagonal_principal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="diagonal_secundaria.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="es_escalar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="es_identidad.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="es_simetrica.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="header.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="matriz_concentrica.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="may_submatriz.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="may_submatriz_cuadrada.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="min_submatriz_cuadrada.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="min_sumbatriz.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mostrar_vecinos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="producto_matricial.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="promedio_vecinos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="recorrer_diagonal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="recorrer_espiral.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="recorrer_filas_columnas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="submatrices.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="trasponer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="triangulo_1_con_diag.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="triangulo_1_sin_diag.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="triangulo_2_con_diag.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="triangulo_2_sin_diag.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="triangulo_3_con_diag.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="triangulo_3_sin_diag.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="triangulo_4_sin_diag.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="triangulo_inferior_con_dp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="triangulo_inferior_con_ds.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="triangulo_inferior_sin_dp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="triangulo_inferior_sin_ds.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="triangulo_superior_con_dp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="triangulo_superior_con_ds.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="triangulo_superior_sin_dp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="triangulo_superior_sin_ds.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

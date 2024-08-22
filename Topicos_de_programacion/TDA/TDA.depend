@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1686535777 source:c:\topicos_de_programacion\tda\funciones.c
+	"header.h"
+
+1686535770 c:\topicos_de_programacion\tda\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1686536636 source:c:\topicos_de_programacion\tda\main.c
+	"header.h"
+
+1686538281 source:c:\topicos_de_programacion\tda\tipo_int.c
+	"header.h"
+

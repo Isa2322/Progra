@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1684940208 source:c:\users\laboratorios\desktop\lote_de_pruebas\cambiar_fecha.c
+	"header.h"
+
+1684940169 c:\users\laboratorios\desktop\lote_de_pruebas\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1684939848 source:c:\users\laboratorios\desktop\lote_de_pruebas\lote_de_pruebas.c
+	"header.h"
+
+1684940248 source:c:\users\laboratorios\desktop\lote_de_pruebas\main.c
+	"header.h"
+
+1684940239 source:c:\users\laboratorios\desktop\lote_de_pruebas\mostrar_arch.c
+	"header.h"
+
+1685041033 source:c:\users\pc game\desktop\lote_de_pruebas\cambiar_fecha.c
+	"header.h"
+
+1685036297 c:\users\pc game\desktop\lote_de_pruebas\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1685037171 source:c:\users\pc game\desktop\lote_de_pruebas\lote_de_pruebas.c
+	"header.h"
+
+1685036371 source:c:\users\pc game\desktop\lote_de_pruebas\main.c
+	"header.h"
+
+1685036425 source:c:\users\pc game\desktop\lote_de_pruebas\mostrar_arch.c
+	"header.h"
+
+1685045529 source:c:\topicos_de_programacion\lote_de_pruebas\cambiar_fecha.c
+	"header.h"
+
+1685036297 c:\topicos_de_programacion\lote_de_pruebas\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1685045241 source:c:\topicos_de_programacion\lote_de_pruebas\lote_de_pruebas.c
+	"header.h"
+
+1685043745 source:c:\topicos_de_programacion\lote_de_pruebas\main.c
+	"header.h"
+
+1685043940 source:c:\topicos_de_programacion\lote_de_pruebas\mostrar_arch.c
+	"header.h"
+

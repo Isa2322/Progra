@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1684335419 source:c:\users\laboratorios\desktop\nueva carpeta (2)\myqsort\archivo\carga_archivo.c
+	"header.h"
+
+1684335472 c:\users\laboratorios\desktop\nueva carpeta (2)\myqsort\archivo\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1684337330 source:c:\users\laboratorios\desktop\nueva carpeta (2)\myqsort\archivo\leer_archivo.c
+	"header.h"
+
+1684337161 source:c:\users\laboratorios\desktop\nueva carpeta (2)\myqsort\archivo\main.c
+	"header.h"
+
+1684526638 source:c:\users\pc game\desktop\archivo\carga_archivo.c
+	"header.h"
+
+1684526638 c:\users\pc game\desktop\archivo\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1684526638 source:c:\users\pc game\desktop\archivo\ingreso_de_datos.c
+	"header.h"
+
+1684526718 source:c:\users\pc game\desktop\archivo\leer_archivo.c
+	"header.h"
+
+1684526757 source:c:\users\pc game\desktop\archivo\main.c
+	"header.h"
+
+1684526638 source:c:\topicos_de_programacion\archivo\carga_archivo.c
+	"header.h"
+
+1684530510 c:\topicos_de_programacion\archivo\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1684526638 source:c:\topicos_de_programacion\archivo\ingreso_de_datos.c
+	"header.h"
+
+1684528081 source:c:\topicos_de_programacion\archivo\leer_archivo.c
+	"header.h"
+
+1684529147 source:c:\topicos_de_programacion\archivo\main.c
+	"header.h"
+
+1684530479 source:c:\topicos_de_programacion\archivo\leer_archivo_generico.c
+	"header.h"
+
+1684530600 source:c:\topicos_de_programacion\archivo\leer_fecha.c
+	"header.h"
+

@@ -1,0 +1,6 @@
+#ifndef LONGITUD_STRING_H_INCLUDED
+#define LONGITUD_STRING_H_INCLUDED
+
+int longitud_string(char*);
+
+#endif // LONGITUD_STRING_H_INCLUDED

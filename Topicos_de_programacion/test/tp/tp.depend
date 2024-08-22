@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1698108506 source:c:\users\pc\documents\practica_topicos_de_programacion\trabajo práctico - tópicos de programación\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1697674921 c:\users\pc\documents\practica_topicos_de_programacion\trabajo práctico - tópicos de programación\tp\funciones.h
+
+1698107760 source:c:\users\pc\documents\practica_topicos_de_programacion\trabajo práctico - tópicos de programación\tp\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1698109596 source:c:\topicos_de_programacion\mili\tp\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1698109790 source:c:\topicos_de_programacion\mili\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1697674922 c:\topicos_de_programacion\mili\tp\funciones.h
+
+1698109596 source:c:\topicos_de_programacion\test\tp\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1698113047 source:c:\topicos_de_programacion\test\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1697674922 c:\topicos_de_programacion\test\tp\funciones.h
+

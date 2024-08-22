@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1687955677 source:c:\topicos_de_programacion\recursividad\fact.c
+
+1688172320 source:c:\topicos_de_programacion\recursividad\main.c
+	"header.h"
+
+1687959974 c:\topicos_de_programacion\recursividad\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1688172332 source:c:\topicos_de_programacion\recursividad\hola_v.c
+	"header.h"
+
+1687959139 source:c:\topicos_de_programacion\recursividad\strlen_recur.c
+	"header.h"
+

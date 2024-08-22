@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1683403449 source:c:\topicos_de_programacion\punteros_a_funcion\comparar_enteros_menor_a_mayor.c
+	"header.h"
+
+1685048045 c:\topicos_de_programacion\punteros_a_funcion\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1685054426 source:c:\topicos_de_programacion\punteros_a_funcion\main.c
+	"header.h"
+
+1684538179 source:c:\topicos_de_programacion\punteros_a_funcion\mostrar_vec_int.c
+	"header.h"
+
+1683404115 source:c:\topicos_de_programacion\punteros_a_funcion\comparar_enteros_mayor_a_menor.c
+	"header.h"
+
+1684538179 source:c:\topicos_de_programacion\punteros_a_funcion\mostrar_cualquier_vector.c
+	"header.h"
+
+1683849063 source:c:\topicos_de_programacion\punteros_a_funcion\mostrar_vec_char.c
+	"header.h"
+
+1683849157 source:c:\topicos_de_programacion\punteros_a_funcion\mostrar_vec_float.c
+	"header.h"
+
+1683925775 source:c:\topicos_de_programacion\punteros_a_funcion\crear_matriz.c
+	"header.h"
+
+1683922450 source:c:\topicos_de_programacion\punteros_a_funcion\producto_matricial.c
+	"header.h"
+
+1683933475 source:c:\topicos_de_programacion\punteros_a_funcion\sim_memcopy.c
+	"header.h"
+
+1683931931 source:c:\topicos_de_programacion\punteros_a_funcion\sim_memmove.c
+	"header.h"
+
+1683935816 source:c:\topicos_de_programacion\punteros_a_funcion\algoritmo_seleccion_int.c
+	"header.h"
+
+1684273654 source:c:\topicos_de_programacion\punteros_a_funcion\ordenar_alumnos.c
+	"header.h"
+
+1684538269 source:c:\topicos_de_programacion\punteros_a_funcion\buscar_menor.c
+	"header.h"
+
+1684526638 source:c:\topicos_de_programacion\punteros_a_funcion\carga_archivo.c
+	"header.h"
+
+1684538056 source:c:\topicos_de_programacion\punteros_a_funcion\comparar_int.c
+	"header.h"
+
+1684526638 source:c:\topicos_de_programacion\punteros_a_funcion\ingreso_de_datos.c
+	"header.h"
+
+1684538800 source:c:\topicos_de_programacion\punteros_a_funcion\intercambio.c
+	"header.h"
+
+1684528081 source:c:\topicos_de_programacion\punteros_a_funcion\leer_archivo.c
+	"header.h"
+
+1685049860 source:c:\topicos_de_programacion\punteros_a_funcion\leer_archivo_generico.c
+	"header.h"
+
+1685035394 source:c:\topicos_de_programacion\punteros_a_funcion\leer_fecha.c
+	"header.h"
+
+1684538820 source:c:\topicos_de_programacion\punteros_a_funcion\sim_qsort.c
+	"header.h"
+
+1685036020 source:c:\topicos_de_programacion\punteros_a_funcion\leer_stock.c
+	"header.h"
+
+1685051522 source:c:\topicos_de_programacion\punteros_a_funcion\modificar_archivo.c
+	"header.h"
+
+1685046664 source:c:\topicos_de_programacion\punteros_a_funcion\modificar_stock.c
+	"header.h"
+
+1685048021 source:c:\topicos_de_programacion\punteros_a_funcion\cambiar_fecha.c
+	"header.h"
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1718754569 source:c:\programacion\algoritmos_y_estructuras_de_datos\lista\lista\main.c
+	"header_lista.h"
+
+1718754581 c:\programacion\algoritmos_y_estructuras_de_datos\lista\lista\header_lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718756521 source:c:\programacion\algoritmos_y_estructuras_de_datos\lista\lista\funciones.c
+	"header_lista.h"
+
+1718744388 source:c:\programacion\algoritmos_y_estructuras_de_datos\lista\lista\lote.c
+	"header_lista.h"
+

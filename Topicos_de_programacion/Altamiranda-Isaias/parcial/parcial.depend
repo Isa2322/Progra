@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1687349357 source:c:\users\laboratorios\desktop\altamiranda-isaías\parcial\leer_txt.c
+	"header.h"
+
+1687347070 c:\users\laboratorios\desktop\altamiranda-isaías\parcial\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687349344 source:c:\users\laboratorios\desktop\altamiranda-isaías\parcial\main.c
+	"header.h"
+
+1687357584 source:c:\users\laboratorios\desktop\altamiranda-isaias\parcial\leer_txt.c
+	"header.h"
+
+1687357575 c:\users\laboratorios\desktop\altamiranda-isaias\parcial\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687357590 source:c:\users\laboratorios\desktop\altamiranda-isaias\parcial\main.c
+	"header.h"
+
+1687358395 source:c:\users\laboratorios\desktop\altamiranda-isaias\parcial\carga_vector_double.c
+	"header.h"
+
+1687358379 source:c:\users\laboratorios\desktop\altamiranda-isaias\parcial\carga_vector_float.c
+	"header.h"
+
+1687358859 source:c:\users\laboratorios\desktop\altamiranda-isaias\parcial\carga_vector_int.c
+	"header.h"
+
+1687355356 source:c:\users\laboratorios\desktop\altamiranda-isaias\parcial\suma_y_resta.c
+	"header.h"
+
+1687355227 source:c:\users\laboratorios\desktop\altamiranda-isaias\parcial\operar_double.c
+	"header.h"
+
+1687355141 source:c:\users\laboratorios\desktop\altamiranda-isaias\parcial\operar_float.c
+	"header.h"
+
+1687357678 source:c:\users\laboratorios\desktop\altamiranda-isaias\parcial\operar_int.c
+	"header.h"
+
+1687358117 source:c:\users\laboratorios\desktop\altamiranda-isaias\parcial\sim_strcpy.c
+	"header.h"
+

@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1716299159 source:d:\desktop\tobias\qqsmillonario\main.c
+	"Cabe.h"
+
+1716229630 d:\desktop\tobias\qqsmillonario\cabe.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	<curl/curl.h>
+	"cJSON.h"
+
+1716298995 source:d:\desktop\tobias\qqsmillonario\funciones.c
+	"Cabe.h"
+
+1716055922 d:\desktop\tobias\qqsmillonario\cjson.h
+	<stddef.h>
+
+1716055922 source:d:\desktop\tobias\qqsmillonario\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<float.h>
+	<locale.h>
+	"cJSON.h"
+
+1716055924 source:c:\users\isaias\downloads\qqsmillonario\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<float.h>
+	<locale.h>
+	"cJSON.h"
+
+1716055924 c:\users\isaias\downloads\qqsmillonario\cjson.h
+	<stddef.h>
+
+1716298996 source:c:\users\isaias\downloads\qqsmillonario\funciones.c
+	"Cabe.h"
+
+1716229632 c:\users\isaias\downloads\qqsmillonario\cabe.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	<curl/curl.h>
+	"cJSON.h"
+
+1716299160 source:c:\users\isaias\downloads\qqsmillonario\main.c
+	"Cabe.h"
+
+1716055924 source:c:\programacion\algoritmos_y_estructuras_de_datos\qqsmillonario\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<float.h>
+	<locale.h>
+	"cJSON.h"
+
+1716055924 c:\programacion\algoritmos_y_estructuras_de_datos\qqsmillonario\cjson.h
+	<stddef.h>
+
+1716935586 source:c:\programacion\algoritmos_y_estructuras_de_datos\qqsmillonario\funciones.c
+	"Cabe.h"
+
+1716925484 c:\programacion\algoritmos_y_estructuras_de_datos\qqsmillonario\cabe.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	<curl/curl.h>
+	"cJSON.h"
+
+1716347016 source:c:\programacion\algoritmos_y_estructuras_de_datos\qqsmillonario\main.c
+	"Cabe.h"
+
