@@ -1,0 +1,7 @@
+abc1|producto 1|26|24 2 2024|8
+bfm5|producto 2|2|24 6 2023|5
+bfm5|producto 2|6|24 12 2024|9
+cjk4|producto 3|11|4 12 2023|5
+dzu6|producto 4|1|18 12 2022|6
+exg8|producto 5|21|13 11 2024|7
+exg8|producto 5|21|13 6 2024|7

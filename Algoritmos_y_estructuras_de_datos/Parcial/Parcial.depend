@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1720018230 source:c:\users\laboratorios\desktop\parcial\parcial\main.c
+	"parcial_header.h"
+
+1720013505 c:\users\laboratorios\desktop\parcial\parcial\parcial_header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1720018138 source:c:\users\laboratorios\desktop\parcial\parcial\parcial_funciones.c
+	"parcial_header.h"
+
+1720018098 source:c:\users\laboratorios\desktop\parcial\parcial\lote.c
+	"parcial_header.h"
+
+1720615134 source:c:\users\isaias\desktop\parcial\lote.c
+	"parcial_header.h"
+
+1720615548 c:\users\isaias\desktop\parcial\parcial_header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1720615532 source:c:\users\isaias\desktop\parcial\main.c
+	"parcial_header.h"
+
+1724635787 source:c:\users\isaias\desktop\parcial\parcial_funciones.c
+	"parcial_header.h"
+
+1720621632 source:c:\users\isaias\desktop\parcial\bkup.c
+	"parcial_header.h"
+
